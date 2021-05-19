@@ -3,9 +3,8 @@
 - 零基础转行两年半，工作快两年；
 - 曾自学四个月，从零接触安卓，完成毕业课题；
 - 测试管理与自动化测试，独立构建了某国际结算业务系统的自动化测试框架；
-- 由于起点低，一直有补基础，现在各方面只勉强够用，不会的就Stackoverflow；
-- 正在思考“基本功”的问题；
-- 后续工作很忙，业余时间只能练练基本功、吹吹牛、写写小工具。
+- 由于起点低，一直有补基础，现在各方面勉强够用，不会就Stackoverflow；
+- 现在工作很忙，业余时间只能练练基本功、吹吹牛、写写小工具。
 <!--
 **gantrol/gantrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
