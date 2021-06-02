@@ -4,7 +4,6 @@
 - 曾自学四个月，从零接触安卓，完成某场地调查安卓端一阶段开发任务；
 - 测试管理与自动化测试，独立构建了某国际结算业务系统的自动化测试框架；
 - 由于起点低，一直有补基础，现在各方面勉强够用，不会就Stackoverflow；
-- 希望日后能统帅一方“数据”大军；
 - 想建很多个知识库。
 <!--
 **gantrol/gantrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
