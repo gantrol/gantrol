@@ -1,10 +1,24 @@
-### 👋
+### CS练习生
 
-- 零基础转行两年半，工作快两年；
-- 曾自学四个月，从零接触安卓，完成某场地调查安卓端一阶段开发任务；
-- 测试管理与自动化测试，独立构建了某国际结算业务系统的自动化测试框架；
-- 由于起点低，一直有补基础，现在各方面勉强够用，不会就Stackoverflow；
-- 想建很多个知识库。
+#### 语言：人、机器与沟通
+
+- Program Language
+- Compiler
+- Network
+
+#### 计算机结构
+
+- 计算机组成原理（CA）
+- OS
+- 分布式系统（DS）
+
+#### 数据、计算与解决问题的方法
+
+- 数据管理与数据库
+- 算法与数据结构
+- 数学（主要是离散数学与统计学）
+
+
 <!--
 **gantrol/gantrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
