@@ -1,3 +1,12 @@
+看，飞机！
+
+<p align="center">
+  <a href="https://www.gantrol.com/en">
+    <img width="1681" height="919" alt="image" src="https://github.com/user-attachments/assets/3c14647d-2689-46ac-8509-91c31469d4e6" />
+  </a>
+</p>
+
+
 <p align="center">
   <a href="https://www.gantrol.com/en/embed/projects">
     <img
